@@ -1,4 +1,4 @@
-count.csv
+>count.csv
 count=0
 count2=0
 
